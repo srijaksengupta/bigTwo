@@ -4,7 +4,7 @@ Developed a multiplayer card game called "Big Two" based in Java leveraging the 
 
 ### General game rules
 
-Please refer to https://www.pagat.com/climbing/bigtwo.html for a detailed description of the Big Two card game. To simplify your implementation, we will adopt the following rules:
+Please refer to https://www.pagat.com/climbing/bigtwo.html for a detailed description of the Big Two card game. The following rules were taken into account when designing the game:
 
 * A standard 52 card pack is used.
 * The order of ranks from high to low is 2,A,K,Q,J,10,9,8,7,6,5,4,3.
